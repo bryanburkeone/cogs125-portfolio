@@ -49,7 +49,7 @@ function Home() {
   return (
     <div style={styles.wrapper}>
       <div style={styles.navWrapper}>
-        <div>Hi, I'm Bryan - a UX Designer.</div>
+        <div>Hi, I'm Bryan | A UX Designer.</div>
         <nav>
           <ul style={styles.navList}>
             <li style={styles.navItem}><Link to="/projects" style={styles.link}>Projects</Link></li>
