@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          UPDATE TO APP
+          UPDATE TO AP  dasdsqdad
         </a>
       </header>
     </div>
