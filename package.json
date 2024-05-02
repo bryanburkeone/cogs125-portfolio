@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "homepage": "https://github.com/bryanburkeone/cogs125-portfolio.git",
   "name": "cogs125-portfolio",
+=======
+  "homepage": "https://bryanburkeone.github.io/cogs125-portfolio/",
+  "name": "my-portfolio",
+>>>>>>> 73f1f6de75c004ec16778874ca92ab62f970f554
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +14,10 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
+=======
+    "react-router-dom": "^6.23.0",
+>>>>>>> 73f1f6de75c004ec16778874ca92ab62f970f554
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
